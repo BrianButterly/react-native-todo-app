@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "I needed a quick todo app on my phone plus this was great native practice.",
+    "githubUrl": "https://github.com/BrianButterly/react-native-todo-app"
   }
 }
